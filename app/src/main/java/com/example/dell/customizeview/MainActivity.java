@@ -28,6 +28,7 @@ import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
     private CirclePercentView mCirclePercentView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

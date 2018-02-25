@@ -37,7 +37,7 @@ import android.view.View;
 //         .............................................
 //                  佛祖保佑             永无BUG
 
-public class CirclePercentView extends View{
+public class CirclePercentView extends View {
     private int mCircleColor;
     private int mArcColor;
     private int mArcWidth;
